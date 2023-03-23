@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f17f05d9.chunk.css",
-    "main.js": "/static/js/main.d8f11192.chunk.js",
-    "main.js.map": "/static/js/main.d8f11192.chunk.js.map",
+    "main.js": "/static/js/main.758fc9e9.chunk.js",
+    "main.js.map": "/static/js/main.758fc9e9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8691016b.js",
     "runtime-main.js.map": "/static/js/runtime-main.8691016b.js.map",
     "static/css/2.95d02a1e.chunk.css": "/static/css/2.95d02a1e.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.95d02a1e.chunk.css.map": "/static/css/2.95d02a1e.chunk.css.map",
     "static/css/main.f17f05d9.chunk.css.map": "/static/css/main.f17f05d9.chunk.css.map",
     "static/js/2.9966c90c.chunk.js.LICENSE.txt": "/static/js/2.9966c90c.chunk.js.LICENSE.txt",
-    "static/media/Abhishek_Kumar_Resume.0427f4f7.pdf": "/static/media/Abhishek_Kumar_Resume.0427f4f7.pdf",
+    "static/media/Abhishek_Kumar_Resume.85993dbd.pdf": "/static/media/Abhishek_Kumar_Resume.85993dbd.pdf",
     "static/media/Photo_fp03_166.e68caedd.png": "/static/media/Photo_fp03_166.e68caedd.png"
   },
   "entrypoints": [
@@ -20,6 +20,6 @@
     "static/css/2.95d02a1e.chunk.css",
     "static/js/2.9966c90c.chunk.js",
     "static/css/main.f17f05d9.chunk.css",
-    "static/js/main.d8f11192.chunk.js"
+    "static/js/main.758fc9e9.chunk.js"
   ]
 }
